@@ -6,4 +6,4 @@ print("Update 2: I saw it! I saw the change! It works! It updates every 5 minute
 print("Update 3: We are on a roll! Cinnamon roll!")
 print("Last attempt now")
 print("Really last attempt now")
-print("This is so fun! I don't want to stop! :(")
+print("This is so fun! I don't want to stop! Boohoo!")
